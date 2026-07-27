@@ -16,5 +16,21 @@
         "date_posted": 1784608749,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1785185021,
+        "url": "https://ats.rippling.com/onware/jobs/1b9d59b6-1ab0-4c40-8429-39b5b62f019a",
+        "locations": [
+            "Edmonton, AB"
+        ],
+        "active": true,
+        "company_name": "Onware Business Solutions Inc",
+        "title": "Full Stack Developer",
+        "season": "Summer",
+        "source": "michelleokolie",
+        "id": "49867397-ba1c-4967-bc05-442105862c18",
+        "date_posted": 1785185021,
+        "company_url": "",
+        "is_visible": true
     }
 ]
