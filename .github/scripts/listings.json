@@ -32,5 +32,21 @@
         "date_posted": 1785185021,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1787261901,
+        "url": "https://careers.kpmg.ca/students/jobs/33306?lang=en-us",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "KPMG",
+        "title": "Software Developer - Co-op & Intern",
+        "season": "Summer",
+        "source": "michelleokolie",
+        "id": "e91c0889-53e0-45e9-8828-55f4a25f4950",
+        "date_posted": 1787261901,
+        "company_url": "",
+        "is_visible": true
     }
 ]
