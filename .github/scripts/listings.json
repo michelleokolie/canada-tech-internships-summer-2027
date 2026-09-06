@@ -64,5 +64,21 @@
         "date_posted": 1788685504,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1788685521,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Manulife John Hancock",
+        "title": "Summer Intern 2027 - Software Engineering",
+        "season": "Summer",
+        "source": "michelleokolie",
+        "id": "09a64e19-e4e1-4c46-bb92-ba8c517880e0",
+        "date_posted": 1788685521,
+        "company_url": "",
+        "is_visible": true
     }
 ]
