@@ -178,5 +178,21 @@
         "date_posted": 1788999291,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1789000626,
+        "url": "https://careers.activision.com/job/R027985/Activision-2027-Summer-Internship-Tech-Design-Vancouver",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Activision",
+        "title": "Tech Design Intern",
+        "season": "Summer",
+        "source": "michelleokolie",
+        "id": "e4e9a4aa-5cc4-4a0c-8572-6b196ea37803",
+        "date_posted": 1789000626,
+        "company_url": "",
+        "is_visible": true
     }
 ]
