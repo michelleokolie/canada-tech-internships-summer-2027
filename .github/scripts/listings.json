@@ -112,5 +112,21 @@
         "date_posted": 1788998667,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1788998691,
+        "url": "https://stripe.com/careers/listing/software-engineer-intern-summer-or-winter/8130805",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Stripe",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "michelleokolie",
+        "id": "7f15d1e2-1992-4c7b-8b8f-9890a3b9d6b9",
+        "date_posted": 1788998691,
+        "company_url": "",
+        "is_visible": true
     }
 ]
