@@ -96,5 +96,21 @@
         "date_posted": 1788998631,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1788998667,
+        "url": "https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job",
+        "locations": [
+            "Canada"
+        ],
+        "active": true,
+        "company_name": "Atlassian",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "michelleokolie",
+        "id": "a0f18c1e-f38f-4f8d-8daf-94399f15e889",
+        "date_posted": 1788998667,
+        "company_url": "",
+        "is_visible": true
     }
 ]
