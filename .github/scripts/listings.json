@@ -128,5 +128,21 @@
         "date_posted": 1788998691,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1788998768,
+        "url": "https://careers-canada-secure.icims.com/jobs/1934/software-developer---intern/job",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "SECURE",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "michelleokolie",
+        "id": "de8c37be-2fa7-40b3-83db-7f4cba574524",
+        "date_posted": 1788998768,
+        "company_url": "",
+        "is_visible": true
     }
 ]
