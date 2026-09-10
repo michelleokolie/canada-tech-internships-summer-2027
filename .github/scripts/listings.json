@@ -80,5 +80,21 @@
         "date_posted": 1788685521,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1788998631,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+        "locations": [
+            "Canada"
+        ],
+        "active": true,
+        "company_name": "Nvidia",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "michelleokolie",
+        "id": "74c1c21d-f023-424b-97cb-5b39e06b0695",
+        "date_posted": 1788998631,
+        "company_url": "",
+        "is_visible": true
     }
 ]
