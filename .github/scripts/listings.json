@@ -194,5 +194,21 @@
         "date_posted": 1789000626,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1789001126,
+        "url": "https://careers.activision.com/job/R027982/Activision-2027-Summer-Internshps-Game-Engineering-Vancouver",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Activision",
+        "title": "Gameplay Engineering Intern",
+        "season": "Summer",
+        "source": "michelleokolie",
+        "id": "e5422401-f077-4a53-b57d-55f704b50d04",
+        "date_posted": 1789001126,
+        "company_url": "",
+        "is_visible": true
     }
 ]
