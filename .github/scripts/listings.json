@@ -210,5 +210,21 @@
         "date_posted": 1789001126,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1789961191,
+        "url": "https://careers.trccompanies.com/jobs/26840",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "TRC",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "michelleokolie",
+        "id": "c3ad2ff8-12dd-416f-80b0-ff8aade18c49",
+        "date_posted": 1789961191,
+        "company_url": "",
+        "is_visible": true
     }
 ]

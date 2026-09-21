@@ -21,6 +21,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| TRC | Software Engineering Intern | Calgary, AB | <a href="https://careers.trccompanies.com/jobs/26840?utm_source=michellesinternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | Stripe | Software Engineer Intern | Toronto, ON | <a href="https://stripe.com/careers/listing/software-engineer-intern-summer-or-winter/8130805?utm_source=michellesinternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | SECURE | Software Developer Intern | Calgary, AB | <a href="https://careers-canada-secure.icims.com/jobs/1934/software-developer---intern/job?utm_source=michellesinternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | Nvidia | Software Engineering Intern | Canada | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495?utm_source=michellesinternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
