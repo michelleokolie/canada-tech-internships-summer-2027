@@ -258,5 +258,21 @@
         "date_posted": 1789962785,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1789965543,
+        "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/5f1f25ee-709d-4ae0-ada4-d1f243bde89c?embed=true&locationId=6fdca225-8fb8-4be9-90df-0e1ab8999c56&ref=Simplify",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Superhuman",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "michelleokolie",
+        "id": "fc76867a-a661-4c7b-b430-c42cff7cee7f",
+        "date_posted": 1789965543,
+        "company_url": "",
+        "is_visible": true
     }
 ]
