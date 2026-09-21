@@ -226,5 +226,21 @@
         "date_posted": 1789961191,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1789962584,
+        "url": "https://tower-research.com/open-positions/?gh_jid=8212179",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Tower Research Capital",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "michelleokolie",
+        "id": "f3c709e3-05ca-4ac4-8a36-adad50356a65",
+        "date_posted": 1789962584,
+        "company_url": "",
+        "is_visible": true
     }
 ]
