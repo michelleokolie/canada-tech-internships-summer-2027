@@ -274,5 +274,21 @@
         "date_posted": 1789965543,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1789967231,
+        "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/AI-and-Automation-Engineer-Co-op-Internship--Winter---Summer-2027-_JR101597-1",
+        "locations": [
+            "Victoria, BC"
+        ],
+        "active": true,
+        "company_name": "BCI",
+        "title": "AI and Automation Engineer Co-op",
+        "season": "Summer",
+        "source": "michelleokolie",
+        "id": "df4f9fc6-26c8-4185-8e19-f9d626d7461a",
+        "date_posted": 1789967231,
+        "company_url": "",
+        "is_visible": true
     }
 ]
