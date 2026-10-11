@@ -1,0 +1,72 @@
+name: Find internships
+
+on:
+  schedule:
+    - cron: "17 13 * * 1,4"   # Mondays and Thursdays, 13:17 UTC
+  workflow_dispatch:
+    inputs:
+      model:
+        description: "Ollama model (qwen2.5:3b is the default, qwen2.5:7b is smarter but tight on memory)"
+        default: "qwen2.5:3b"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency: add_internships
+
+jobs:
+  find:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      OLLAMA_MODEL: ${{ inputs.model || 'qwen2.5:3b' }}
+      OLLAMA_MODELS: /home/runner/.ollama-models
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Cache Ollama models
+        uses: actions/cache@v4
+        with:
+          path: /home/runner/.ollama-models
+          key: ollama-${{ env.OLLAMA_MODEL }}
+
+      - name: Install and start Ollama
+        run: |
+          curl -fsSL https://ollama.com/install.sh | sh
+          sudo systemctl stop ollama || true
+          mkdir -p "$OLLAMA_MODELS"
+          nohup ollama serve > ollama.log 2>&1 &
+          for i in $(seq 1 30); do
+            curl -s localhost:11434 > /dev/null && break
+            sleep 2
+          done
+          ollama pull "$OLLAMA_MODEL"
+
+      - name: Find new internships
+        env:
+          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
+        run: python .github/scripts/find_internships.py
+
+      - name: Rebuild the READMEs from listings.json
+        run: python .github/scripts/update_readmes.py
+
+      - name: Open pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: bot/new-internships
+          delete-branch: true
+          add-paths: |
+            .github/scripts/listings.json
+            .github/bot-data/
+            README.md
+            OFFSEASON_README.md
+          commit-message: "bot: add new internships"
+          title: "New internships found by bot"
+          body-path: pr_body.md
