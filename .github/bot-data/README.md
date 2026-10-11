@@ -2,8 +2,9 @@
 
 Runs Mondays and Thursdays (and on demand from the Actions tab), finds new internships on
 Ashby, Greenhouse and Lever, and opens a PR that adds them to `.github/scripts/listings.json`.
-The PR also contains the rebuilt READMEs. Summer roles go to README.md, Fall/Winter/Spring
-roles go to OFFSEASON_README.md. Nothing lands without you merging the PR.
+The PR also contains the rebuilt README. Only Summer 2027 roles are kept, off-season roles are
+skipped. New finds are dated the day the bot finds them, so they show up at the top of the table.
+Nothing lands without you merging the PR.
 
 ## One-time setup
 1. Add a Brave Search API key as the repo secret `BRAVE_API_KEY`.
