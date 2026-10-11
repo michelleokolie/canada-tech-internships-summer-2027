@@ -290,5 +290,21 @@
         "date_posted": 1789967231,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1791689153,
+        "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Tech-Data---Analytics----Software-Engineer-Co-op-Internship--Winter-2027-or-Winter---Summer-2027-_JR101596",
+        "locations": [
+            "Victoria, BC"
+        ],
+        "active": true,
+        "company_name": "BCI",
+        "title": "Software Engineer Co-op",
+        "season": "Summer",
+        "source": "michelleokolie",
+        "id": "4ec7e1c7-dfe6-4177-947a-d0f4e36336e6",
+        "date_posted": 1791689153,
+        "company_url": "",
+        "is_visible": true
     }
 ]
