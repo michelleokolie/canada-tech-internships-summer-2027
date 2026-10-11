@@ -9,7 +9,7 @@ Flow:
   3. Rule filter: intern/co-op titles with a Canadian or remote location.
   4. LLM filter: a local Ollama model checks tech role, Canada/remote, and the season.
   5. Append new entries to listings.json and write pr_body.md for review.
-     update_readmes.py then rebuilds README.md and OFFSEASON_README.md.
+     update_readmes.py then rebuilds README.md. Only Summer 2027 roles are kept.
 
 Usage:
   python .github/scripts/find_internships.py            # normal run
@@ -270,13 +270,13 @@ def classify(job, company, use_llm=True):
 
 
 def decide_season(v):
-    """Return the listings.json season ('Summer', 'Fall', ...) or None to skip."""
+    """Return 'Summer' to keep a posting, or None to skip it. Off-season roles are skipped."""
     if not (v["tech_role"] and v["canada_ok"]):
         return None
     if v["year"] not in (None, TARGET_YEAR):
         return None
     if v["season"] in ("fall", "winter", "spring"):
-        return v["season"].capitalize()
+        return None
     return "Summer"  # summer, or unclear (flagged in the PR)
 
 
@@ -301,7 +301,8 @@ def make_listing(company, job, season):
     return {
         "source": "internship-bot", "company_name": company, "id": str(uuid.uuid4()),
         "title": job["title"], "active": True, "date_updated": now, "is_visible": True,
-        "date_posted": job["posted"], "url": normalize_url(job["url"]),
+        "date_posted": now,  # day the bot found it, so new listings sort to the top
+        "url": normalize_url(job["url"]),
         "locations": job["locations"] or (["Remote"] if job["remote"] else ["Canada"]),
         "season": season, "company_url": "",
     }
@@ -348,10 +349,9 @@ def main():
     body = ["## New internship postings found by the bot", "",
             "Please review before merging. The model can be wrong. Company names come from the "
             "board (edit `.github/bot-data/company_names.json` to fix one for next time).", "",
-            "| Company | Role | Goes to | Locations | Model note |", "| --- | --- | --- | --- | --- |"]
+            "| Company | Role | Locations | Model note |", "| --- | --- | --- | --- |"]
     for l, v in added:
-        where = "Main README" if l["season"] == "Summer" else f"Off-season ({l['season']})"
-        body.append(f"| {l['company_name']} | [{l['title']}]({l['url']}) | {where} | "
+        body.append(f"| {l['company_name']} | [{l['title']}]({l['url']}) | "
                     f"{', '.join(l['locations'])} | {v['reason']} |")
     if flagged:
         body += ["", "### Season unclear, defaulted to Summer. Check these:", ""] + [f"- {f}" for f in flagged]

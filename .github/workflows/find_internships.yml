@@ -57,6 +57,9 @@ jobs:
       - name: Rebuild the READMEs from listings.json
         run: python .github/scripts/update_readmes.py
 
+      - name: Make sure a PR body exists
+        run: '[ -f pr_body.md ] || echo "No new internships found." > pr_body.md'
+
       - name: Open pull request
         uses: peter-evans/create-pull-request@v7
         with:
