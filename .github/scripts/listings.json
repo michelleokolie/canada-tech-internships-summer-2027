@@ -306,5 +306,165 @@
         "date_posted": 1791689153,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Khan Academy",
+        "id": "157e9558-d9c9-4379-b3a6-83b317736ed0",
+        "title": "Software Engineer Intern (Summer 2027)",
+        "active": true,
+        "date_updated": 1791690094,
+        "is_visible": true,
+        "date_posted": 1791690094,
+        "url": "https://job-boards.greenhouse.io/khanacademy/jobs/8250259",
+        "locations": [
+            "Remote (US + Canada Only)"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Lyft",
+        "id": "a7a9662c-b10f-4f0a-8640-8b1e32352f24",
+        "title": "Business Systems Engineer Intern, Finance Technology (Summer 2027)",
+        "active": true,
+        "date_updated": 1791690106,
+        "is_visible": true,
+        "date_posted": 1791690106,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8802222002",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Lyft",
+        "id": "15450a6c-8ce9-4785-b292-a32ae5825370",
+        "title": "Data Engineer Intern (Summer 2027)",
+        "active": true,
+        "date_updated": 1791690127,
+        "is_visible": true,
+        "date_posted": 1791690127,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8797376002",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Lyft",
+        "id": "87f241de-ab86-42de-aa6a-bc08cc37271a",
+        "title": "Data Science Intern, Algorithms (Summer 2027 - Toronto)",
+        "active": true,
+        "date_updated": 1791690137,
+        "is_visible": true,
+        "date_posted": 1791690137,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Lyft",
+        "id": "09fb3d2d-289d-4f2d-b68b-0f0e753b4ebd",
+        "title": "Software Engineer Intern, Backend (Summer 2027 - Montreal)",
+        "active": true,
+        "date_updated": 1791690170,
+        "is_visible": true,
+        "date_posted": 1791690170,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8796054002",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Lyft",
+        "id": "bdfe6a0c-e609-4ecd-879c-694244873fc5",
+        "title": "Software Engineer Intern, Backend (Summer 2027 - Toronto)",
+        "active": true,
+        "date_updated": 1791690180,
+        "is_visible": true,
+        "date_posted": 1791690180,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8767710002",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Lyft",
+        "id": "06a1ec9b-be4b-4508-b730-f93372e4e2c1",
+        "title": "Software Engineer Intern, Fullstack (Summer 2027 - Toronto)",
+        "active": true,
+        "date_updated": 1791690191,
+        "is_visible": true,
+        "date_posted": 1791690191,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8797859002",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Lyft",
+        "id": "3fb13f1a-7445-4fb5-a69d-1563043c2aaa",
+        "title": "Software Engineer Intern, Machine Learning (Summer 2027 - Toronto)",
+        "active": true,
+        "date_updated": 1791690201,
+        "is_visible": true,
+        "date_posted": 1791690201,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Lyft",
+        "id": "2dbb87c7-7f12-4592-b1f6-549f2004cc8e",
+        "title": "Software Engineer Intern, Test Automation (Summer 2027)",
+        "active": true,
+        "date_updated": 1791690212,
+        "is_visible": true,
+        "date_posted": 1791690212,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8767534002",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Jobgether",
+        "id": "717aa845-c800-4a93-9f8f-5830fde38bf8",
+        "title": "Software Engineer Co-op, Agents",
+        "active": true,
+        "date_updated": 1791690615,
+        "is_visible": true,
+        "date_posted": 1791690615,
+        "url": "https://jobs.lever.co/jobgether/07524e6d-3d39-4700-bc0c-62f3aa735ff6",
+        "locations": [
+            "Canada"
+        ],
+        "season": "Summer",
+        "company_url": ""
     }
 ]
