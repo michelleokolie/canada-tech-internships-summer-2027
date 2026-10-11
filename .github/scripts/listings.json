@@ -290,5 +290,313 @@
         "date_posted": 1789967231,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "DRW ",
+        "id": "1a621575-a41c-4713-b8d8-f287c057102f",
+        "title": "AI/ML Research Intern",
+        "active": true,
+        "date_updated": 1791688077,
+        "is_visible": true,
+        "date_posted": 1783952770,
+        "url": "https://job-boards.greenhouse.io/drweng/jobs/7991171",
+        "locations": [
+            "Montreal"
+        ],
+        "season": "Fall",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "DRW ",
+        "id": "ddcbae03-aa9b-4da3-828d-8a0c4bc30c96",
+        "title": "Software Developer Intern",
+        "active": true,
+        "date_updated": 1791688094,
+        "is_visible": true,
+        "date_posted": 1783954815,
+        "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+        "locations": [
+            "Montreal"
+        ],
+        "season": "Fall",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Khan Academy",
+        "id": "41085c34-0091-42f3-bdad-9d346ac50981",
+        "title": "Software Engineer Intern (Summer 2027)",
+        "active": true,
+        "date_updated": 1791688114,
+        "is_visible": true,
+        "date_posted": 1791211600,
+        "url": "https://job-boards.greenhouse.io/khanacademy/jobs/8250259",
+        "locations": [
+            "Remote (US + Canada Only)"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Lyft",
+        "id": "62b942d2-2357-431f-b458-f9be3be5850b",
+        "title": "Business Systems Engineer Intern, Finance Technology (Summer 2027)",
+        "active": true,
+        "date_updated": 1791688132,
+        "is_visible": true,
+        "date_posted": 1790631205,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8802222002",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Lyft",
+        "id": "57658569-1fa2-44d9-9aff-a0e1b7093d9c",
+        "title": "Data Engineer Intern (Summer 2027)",
+        "active": true,
+        "date_updated": 1791688169,
+        "is_visible": true,
+        "date_posted": 1789145338,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8797376002",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Lyft",
+        "id": "48d70c44-cd25-43c6-926e-6e3177ec7dfc",
+        "title": "Data Science Intern, Algorithms (Summer 2027 - Toronto)",
+        "active": true,
+        "date_updated": 1791688186,
+        "is_visible": true,
+        "date_posted": 1789145291,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Lyft",
+        "id": "fc2c1bd9-0488-4661-ae25-44d575be4566",
+        "title": "Software Engineer Intern, Backend (Summer 2027 - Montreal)",
+        "active": true,
+        "date_updated": 1791688243,
+        "is_visible": true,
+        "date_posted": 1789145370,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8796054002",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Lyft",
+        "id": "7c3668af-269b-40c7-a5e6-cc09ee3ffc18",
+        "title": "Software Engineer Intern, Backend (Summer 2027 - Toronto)",
+        "active": true,
+        "date_updated": 1791688261,
+        "is_visible": true,
+        "date_posted": 1789145280,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8767710002",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Lyft",
+        "id": "c4ef786d-6652-42bc-82f9-66c04c6084a8",
+        "title": "Software Engineer Intern, Fullstack (Summer 2027 - Toronto)",
+        "active": true,
+        "date_updated": 1791688280,
+        "is_visible": true,
+        "date_posted": 1789145316,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8797859002",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Lyft",
+        "id": "1a86dc8d-47ce-4559-acd0-c88b06c1b7ac",
+        "title": "Software Engineer Intern, Machine Learning (Summer 2027 - Toronto)",
+        "active": true,
+        "date_updated": 1791688298,
+        "is_visible": true,
+        "date_posted": 1789156685,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Lyft",
+        "id": "4e0bd925-8681-4b69-938f-b48c2125b193",
+        "title": "Software Engineer Intern, Test Automation (Summer 2027)",
+        "active": true,
+        "date_updated": 1791688316,
+        "is_visible": true,
+        "date_posted": 1789145353,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8767534002",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Eqbank",
+        "id": "b5fe6df2-de34-4bc0-8dd8-38053bbe3de6",
+        "title": "Intern - Commercial Lending AI Engineer, Winter 2027",
+        "active": true,
+        "date_updated": 1791688512,
+        "is_visible": true,
+        "date_posted": 1789408156,
+        "url": "https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487",
+        "locations": [
+            "Toronto"
+        ],
+        "season": "Winter",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Eqbank",
+        "id": "724c051e-3d0d-4f50-8063-174f2c60d504",
+        "title": "Intern - Data Scientist, Winter 2027",
+        "active": true,
+        "date_updated": 1791688599,
+        "is_visible": true,
+        "date_posted": 1789503894,
+        "url": "https://jobs.lever.co/eqbank/b152bad3-df48-4049-9d44-ba7e57ea6499",
+        "locations": [
+            "Toronto"
+        ],
+        "season": "Winter",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Eqbank",
+        "id": "ffe07786-621d-4c68-ac4f-b874335c88c4",
+        "title": "Intern - Retail Lending AI Engineer, Winter 2027",
+        "active": true,
+        "date_updated": 1791688759,
+        "is_visible": true,
+        "date_posted": 1789407647,
+        "url": "https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea",
+        "locations": [
+            "Toronto"
+        ],
+        "season": "Winter",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Eqbank",
+        "id": "ed180962-e9fd-4f8a-b752-535fa4ab3eee",
+        "title": "Intern - Software Engineer, Winter 2027",
+        "active": true,
+        "date_updated": 1791688815,
+        "is_visible": true,
+        "date_posted": 1791472812,
+        "url": "https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3",
+        "locations": [
+            "Toronto"
+        ],
+        "season": "Winter",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Jobgether",
+        "id": "86e8d009-d994-4186-8194-e8c494a01bc2",
+        "title": "Software Engineer Co-op, Agents",
+        "active": true,
+        "date_updated": 1791688985,
+        "is_visible": true,
+        "date_posted": 1791251760,
+        "url": "https://jobs.lever.co/jobgether/07524e6d-3d39-4700-bc0c-62f3aa735ff6",
+        "locations": [
+            "Canada"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Shyftlabs",
+        "id": "cd4af7cd-a447-4002-aab2-637913e91efe",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "date_updated": 1791689019,
+        "is_visible": true,
+        "date_posted": 1784660393,
+        "url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd",
+        "locations": [
+            "Toronto, Ontario"
+        ],
+        "season": "Fall",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Waabi",
+        "id": "b922c28f-0635-407c-9509-44a71c753148",
+        "title": "2026 Intern, PhD Research Scientist",
+        "active": true,
+        "date_updated": 1791689080,
+        "is_visible": true,
+        "date_posted": 1766095153,
+        "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
+        "locations": [
+            "Toronto, ON",
+            "Pittsburgh, PA",
+            "San Francisco, CA"
+        ],
+        "season": "Fall",
+        "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Waabi",
+        "id": "0c40c40a-1c69-4543-a680-43ac9da6b985",
+        "title": "Research Internship/Co-op",
+        "active": true,
+        "date_updated": 1791689099,
+        "is_visible": true,
+        "date_posted": 1766095735,
+        "url": "https://jobs.lever.co/waabi/0fd4e30b-9bd1-4b53-9043-6088457363cb",
+        "locations": [
+            "Toronto, ON",
+            "San Francisco, CA",
+            "Remote US"
+        ],
+        "season": "Fall",
+        "company_url": ""
     }
 ]
