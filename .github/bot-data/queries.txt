@@ -1,0 +1,4 @@
+# One Brave search per line. Lines starting with # are ignored.
+site:jobs.ashbyhq.com ("software engineer intern" OR "intern") ("startup" OR "series a" OR "seed")
+site:boards.greenhouse.io ("software engineer intern" OR "intern") ("canada" OR "toronto" OR "vancouver")
+site:jobs.lever.co ("software engineer intern" OR "intern") ("canada" OR "toronto" OR "vancouver")

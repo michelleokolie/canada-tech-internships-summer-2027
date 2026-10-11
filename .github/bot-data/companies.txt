@@ -1,0 +1,2 @@
+# One board per line as source:slug (ashby, greenhouse, or lever).
+# The bot appends boards it discovers.
