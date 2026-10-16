@@ -1,2 +1,37 @@
 # One board per line as source:slug (ashby, greenhouse, or lever).
 # The bot appends boards it discovers.
+ashby:compa
+ashby:espa
+ashby:nory-co
+ashby:tessera-labs
+greenhouse:addepar1
+greenhouse:affirm
+greenhouse:asteralabs
+greenhouse:athinkingape
+greenhouse:charlesriverassociates
+greenhouse:doordashcanada
+greenhouse:drweng
+greenhouse:earlycareerprograms
+greenhouse:imc
+greenhouse:khanacademy
+greenhouse:mozilla
+greenhouse:rocketlab
+greenhouse:saltxc
+greenhouse:samsara
+greenhouse:sonypicturesimageworks
+greenhouse:twilio
+lever:achievers
+lever:deepgenomics
+lever:drivetrain
+lever:eqbank
+lever:fullscript
+lever:gomaterials
+lever:jobgether
+lever:kepler
+lever:matchgroup
+lever:nimblerx
+lever:paytm
+lever:shyftlabs
+lever:thinkingbox
+lever:veeva
+lever:waabi

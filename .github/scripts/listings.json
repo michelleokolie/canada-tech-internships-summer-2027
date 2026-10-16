@@ -290,5 +290,21 @@
         "date_posted": 1789967231,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Khan Academy",
+        "id": "c6f2bfee-6325-4acf-a78e-cf734f30d3fa",
+        "title": "Software Engineer Intern (Summer 2027)",
+        "active": true,
+        "date_updated": 1792086599,
+        "is_visible": true,
+        "date_posted": 1792086599,
+        "url": "https://job-boards.greenhouse.io/khanacademy/jobs/8250259",
+        "locations": [
+            "Remote (US + Canada Only)"
+        ],
+        "season": "Summer",
+        "company_url": ""
     }
 ]

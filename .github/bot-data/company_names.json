@@ -1,1 +1,15 @@
-{}
+{
+  "ashby:espa": "Espa",
+  "greenhouse:drweng": "DRW ",
+  "greenhouse:khanacademy": "Khan Academy",
+  "greenhouse:rocketlab": "Rocket Lab Corporation",
+  "lever:drivetrain": "Drivetrain",
+  "lever:eqbank": "Eqbank",
+  "lever:fullscript": "Fullscript",
+  "lever:gomaterials": "Gomaterials",
+  "lever:kepler": "Kepler",
+  "lever:shyftlabs": "Shyftlabs",
+  "lever:thinkingbox": "Thinkingbox",
+  "lever:veeva": "Veeva",
+  "lever:waabi": "Waabi"
+}
