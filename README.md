@@ -21,6 +21,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Realmalliance | Software Engineer - Intern | Remote | <a href="https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a?utm_source=michellesinternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Khan Academy | Software Engineer Intern (Summer 2027) | Remote (US + Canada Only) | <a href="https://job-boards.greenhouse.io/khanacademy/jobs/8250259?utm_source=michellesinternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | BCI | AI and Automation Engineer Co-op | Victoria, BC | <a href="https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/AI-and-Automation-Engineer-Co-op-Internship--Winter---Summer-2027-_JR101597-1?utm_source=michellesinternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | TRC | Software Engineering Intern | Calgary, AB | <a href="https://careers.trccompanies.com/jobs/26840?utm_source=michellesinternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
