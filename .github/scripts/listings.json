@@ -306,5 +306,21 @@
         ],
         "season": "Summer",
         "company_url": ""
+    },
+    {
+        "source": "internship-bot",
+        "company_name": "Realmalliance",
+        "id": "ce7c4e72-caa7-4ba0-9686-262470343a07",
+        "title": "Software Engineer - Intern",
+        "active": true,
+        "date_updated": 1794516667,
+        "is_visible": true,
+        "date_posted": 1794516667,
+        "url": "https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "company_url": ""
     }
 ]
